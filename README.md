@@ -187,7 +187,7 @@ Custom responsive websites developed for startups and local businesses.
 
 ### Pravin Dabhade
 
-📧 Email: [ag284533@gmail.com](mailto:ag284533@gmail.com)
+📧 Email:
 
 💼 LinkedIn: Add Your LinkedIn URL
 
